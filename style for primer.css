@@ -1,0 +1,21 @@
+#first {
+   width: 300px;
+   height: 500px;
+   border: 1px solid black;
+   float: left;
+}
+
+#second {
+   width: 500px;
+   height: 300px;
+   border: 1px solid black;
+   float: left;
+   clear: right;
+}
+
+#third {
+	width: 200px;
+   height: 200px;
+   border: 1px solid black;
+   float: left;
+}

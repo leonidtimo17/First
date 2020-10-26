@@ -1,0 +1,32 @@
+#container {
+	padding-left: 200px;
+	padding-right: 150px;
+}
+
+#container .column {
+	float: left;
+	height: 620px;
+	position: relative;
+}
+
+#center {
+	width: 100%;
+	border: 1px solid black;
+}
+
+#left {
+	width: 200px;
+	border: 1px solid black;
+	margin-left: -100%;
+	right: 200px;
+}
+
+#right {
+	width: 150px;
+	border: 1px solid black;
+	margin-right: -150%;
+}
+
+#footer {
+	clear: both;
+}
